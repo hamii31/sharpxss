@@ -1,5 +1,5 @@
 # sharpxss
-#### Video Demo:  [<YOUTUBE VIDEO>](https://youtu.be/-CvcAF_JxkM)
+#### Video Demo: https://youtu.be/-CvcAF_JxkM
 #### Description:
 This is a web application analyzing tool written entirely in C#. It uses the Selenium.Support package to test the web application. By default it runs a chrome driver,
 but I use Firefox, so I opted for the Firefox Driver.
